@@ -26,13 +26,13 @@ The current SDK provides the following features:
 
 ## 4. Integration Process
 
-整体接入流程如下：
+The overall integration process is as follows:
 
-1. The overall integration process is as follows:
+1. Apply for Open API access on the NEWPOS STORE platform:
 
    **https://www.newposstore.com/**
 
-   After registering on the NEWPOS STORE Cloud Platform, apply for Developer & Device Management permissions to enable Open API access.**
+   After registering on the NEWPOS STORE Cloud Platform, apply for Developer & Device Management permissions to enable Open API access.
 
    ![](./img/image-20260115144859578.png)
 
